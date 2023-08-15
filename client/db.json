@@ -1,0 +1,21 @@
+{
+    "drinks":[
+        {
+            "id": 1,
+            "name": "Mudslide",
+            "tags": ["vodka", "baileys", "kahlua"],
+            "ingredients": ["30ml vodka", "30ml Baileys", "15ml Kahlua"],
+            "summary": "A classic coffee tasting drink",
+            "howTo": "Mix vodka with bla bla bla"
+        },
+        {
+            "id": 2,
+            "name": "Mojito",
+            "tags": ["rum", "mint"],
+            "ingredients": ["Fresh Mint", "10ml Lime Juice", "30ml Rum", "50ml Soda Water"],
+            "summary": "Best during summer!",
+            "howTo": ["As the first step, place the mint into the cup and mash the leaves to extract the juice",
+        "Add vodka to the glass", "add soda water to the glass", "optionally, you may add simple syrup to make it tastier"]
+        }
+    ]
+}

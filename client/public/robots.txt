@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /signin/
+Disallow: /signup/
+Disallow: /support/
+
+Sitemap: https://makecocktail.net/sitemap.txt
